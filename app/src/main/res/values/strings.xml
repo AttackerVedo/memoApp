@@ -1,3 +1,21 @@
 <resources>
-    <string name="app_name">My Application</string>
+    <string name="app_name">MemoTodo</string>
+    <string name="addBtn">할 일 메모하기</string>
+
+    <!-- AddTodoActivity text -->
+    <string name="title">제목</string>
+    <string name="hintTitle">해야 할 일을 입력해 주세요.</string>
+    <string name="importance">중요도</string>
+    <string name="importanceLow">낮음</string>
+    <string name="importanceMiddle">중간</string>
+    <string name="importanceHigh">높음</string>
+    <string name="completion">완료</string>
+
+    <!-- AlertText -->
+    <string name="alertTitle">할 일 삭제</string>
+    <string name="alertMessage">정말 삭제 하시겠습니까?</string>
+    <string name="alertYes">네</string>
+    <string name="alertNo">아니요</string>
+
+
 </resources>
